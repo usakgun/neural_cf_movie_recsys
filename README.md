@@ -8,7 +8,8 @@ The dataset is not included in this repository, because the MovieLens license do
 
 1. **Download the dataset** (`ml-latest-small`):
    [https://files.grouplens.org/datasets/movielens/ml-latest-small.zip](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip)
-2. **Extract the zip** and copy `ratings.csv` into the `data/` folder of this project. The code uses only this file.
+2. **Create a `data` folder** in the root directory of this project.
+3. **Extract the zip** and copy `ratings.csv` into the `data/` folder. The code uses only this file.
 
 Your folder structure should look like this:
 
